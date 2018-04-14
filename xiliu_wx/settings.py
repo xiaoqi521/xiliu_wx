@@ -25,7 +25,7 @@ SECRET_KEY = '1$_dg9@jca^1eyz_nz2i-$3+$lgn@_91(drfe7f#b^&d(xulat'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['207.148.106.132','www.xiaoqi666.cn']
 
 
 # Application definition
